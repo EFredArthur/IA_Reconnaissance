@@ -114,8 +114,3 @@ Vos fichiers de réseaux de neurones sont désormais compilés dans le dossier `
 
 ***
 
-### 🎯 Pourquoi ce fichier valorise votre projet ?
-1. **Clarté pour les recruteurs/utilisateurs :** N'importe qui téléchargeant votre projet saura qu'il faut ajouter au moins **2 personnes** avant d'appuyer sur le bouton d'entraînement, ce qui évite les erreurs de manipulation.
-2. **Explication de la correction technique :** Il met en avant le côté **natif** de l'implémentation, expliquant pourquoi cette architecture est plus stable que les anciennes architectures basées sur les processus asynchrones.
-
-```
